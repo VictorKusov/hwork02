@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_txt">Парсим файл</string>
+    <string name="hint_id">ID</string>
+    <string name="check_id">Выбрать id</string>
+    <string name="btn_show">Показать</string>
+</resources>
